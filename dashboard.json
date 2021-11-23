@@ -1,0 +1,19 @@
+{
+    "wifi name":" ",
+    "plan":"user current plan",
+    "connected devices":" ",
+    "wifi controls":"",
+    "Subscription":" ",
+    "password":" ",
+    "Bandwidth(GBs)":{
+       "1 year": "data",
+       "1 month": "data",
+       "7 days": "data",
+       "24 hours": "data"
+    },
+    "Billing History":{
+       "invoice":"date",
+       "Status":" payment status",
+       "Amount":" "
+    }
+ }
