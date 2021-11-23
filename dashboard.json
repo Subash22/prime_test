@@ -1,19 +1,19 @@
 {
-    "wifi name":" ",
-    "plan":"user current plan",
-    "connected devices":" ",
-    "wifi controls":"",
-    "Subscription":" ",
-    "password":" ",
-    "Bandwidth(GBs)":{
-       "1 year": "data",
-       "1 month": "data",
-       "7 days": "data",
-       "24 hours": "data"
-    },
-    "Billing History":{
-       "invoice":"date",
-       "Status":" payment status",
-       "Amount":" "
+        "wifi_name":"Bijay Wifi",
+        "plan":"Business",
+        "connected_devices":"4",
+        "wifi_controls":"true",
+        "subscription":"7",
+        "password":"bijaykaledai",
+        "bandwidth":{
+            "1 year": "data",
+            "1 month": "data",
+            "7 days": "data",
+            "24 hours": "data"
+        },
+        "billing_history":{
+            "invoice":"2021-11-12",
+            "status":"active",
+            "amount":" "
+        }
     }
- }
